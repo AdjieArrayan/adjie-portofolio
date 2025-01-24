@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Medipulse",
+    "imageSrc": "projects/medipulse.png",
+    "description": "Medipulse helps you stay on top of your medication schedule with simple, smart reminders, ensuring you never miss a dose despite your busy daily routine. Stay healthy !",
+    "skills": ["PHP", "Laravel", "Bootstrap", "MySQL", "Blade", "XAMPP"],
+    "demo": "#",
+    "source": "https://github.com/AdjieArrayan/Final-Project-Rakamin.git"
+  },
+  {
+    "title": "Smart Workshop",
+    "imageSrc": "projects/smart-workshop.png",
+    "description": "This is a web project for the Software Engineering course. The website, built with PHP technology, is named Bengkel Pintar PSPP and focuses on managing automotive workshops efficiently.",
+    "skills": ["PHP", "MySQL", "Javascript", "Bootstrap", "XAMPP"],
+    "demo": "#",
+    "source": "https://github.com/AdjieArrayan/Bengkel-RPL.git"
+  },
+  {
+    "title": "Real Merchandise",
+    "imageSrc": "projects/real-merchandise.png",
+    "description": "Real Merchandise is your go-to website for official Real Madrid merchandise. Whether you're looking for jerseys, accessories, or memorabilia, we've got it all!",
+    "skills": ["PHP", "MySQL", "Bootstrap", "XAMPP", "CSS"],
+    "demo": "#",
+    "source": "https://github.com/AdjieArrayan/Real-Merchandise"
+  }
+]

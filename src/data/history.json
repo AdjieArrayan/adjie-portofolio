@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Student",
+    "organisation": "University of Singaperbangsa Karawang",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["GPA : 3.84"],
+    "imageSrc": "history/unsika.png"
+  },
+  {
+    "role": "Front-End Developer",
+    "organisation": "Rakamin Independent Study",
+    "startDate": "Sept, 2024",
+    "endDate": "Dec, 2024",
+    "experiences": ["Developing Website with Laravel", "Making Design for Website"],
+    "imageSrc": "history/rakamin.png"
+  }
+]
