@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://adjiearrayan.github.io/adjie-portofolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -27,4 +28,5 @@
     "vite": "^4.4.5",
     "vite-plugin-gh-pages": "^1.0.1"
   }
+  
 }
