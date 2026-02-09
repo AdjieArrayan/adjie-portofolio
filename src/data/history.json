@@ -4,7 +4,7 @@
     "organisation": "University of Singaperbangsa Karawang",
     "startDate": "Sept, 2022",
     "endDate": "Present",
-    "experiences": ["GPA : 3.84"],
+    "experiences": ["GPA : 3.9"],
     "imageSrc": "history/unsika.png"
   },
   {
@@ -14,5 +14,13 @@
     "endDate": "Dec, 2024",
     "experiences": ["Developing Website with Laravel", "Making Design for Website"],
     "imageSrc": "history/rakamin.png"
+  },
+  {
+    "role": "Full Stack Developer Developer",
+    "organisation": "Ministry of Communication and Digital Affairs Karawang",
+    "startDate": "Feb, 2025",
+    "endDate": "May, 2025",
+    "experiences": ["Developing Website with Laravel"],
+    "imageSrc": "history/diskominfo.jpg"
   }
 ]

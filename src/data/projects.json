@@ -22,5 +22,29 @@
     "skills": ["PHP", "MySQL", "Bootstrap", "XAMPP", "CSS"],
     "demo": "#",
     "source": "https://github.com/AdjieArrayan/Real-Merchandise"
+  },
+  {
+    "title": "Cendol Nada",
+    "imageSrc": "projects/cendol-nada.png",
+    "description": "Ready to Go Website For Transaction in Your MSME Business",
+    "skills": ["PHP", "MySQL", "Bootstrap", "XAMPP", "CSS", "Laravel", "Blade"],
+    "demo": "#",
+    "source": "https://github.com/AdjieArrayan/project_open_source.git"
+  },
+  {
+    "title": "KLA Karawang",
+    "imageSrc": "projects/KLA-karawang.png",
+    "description": "Ready to Go Website For Transaction in Your MSME Business",
+    "skills": ["PHP", "MySQL", "Bootstrap", "XAMPP", "CSS", "Blade", "Laravel"],
+    "demo": "#",
+    "source": "https://github.com/AdjieArrayan/KLA_Karawang.git"
+  },
+  {
+    "title": "Sindraja Karawang",
+    "imageSrc": "projects/sindraja-karawang.png",
+    "description": "Reporting Website for Immediate Action",
+    "skills": ["PHP", "MySQL", "Bootstrap", "XAMPP", "CSS", "Blade", "Laravel"],
+    "demo": "#",
+    "source": "https://github.com/AdjieArrayan/sindraja_karawang.git"
   }
 ]
